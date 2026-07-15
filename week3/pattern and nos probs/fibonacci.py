@@ -1,4 +1,4 @@
-n= int(input("Enter the no of terms:"))
+n= int(input("Enter the no of terms:i"))
 
 a=0
 b=1
