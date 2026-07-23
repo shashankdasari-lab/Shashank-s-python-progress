@@ -6,9 +6,9 @@ while play_again == "Y":
 
     name = input("Enter your name: ")
 
-    print("=========================================")
+    print("")
     print("QUIZ GAME RULES")
-    print("=========================================")
+    print("")
     print("1. The quiz contains 3 multiple-choice questions.")
     print("2. Each question has 4 options: A, B, C and D.")
     print("3. Enter only the option letter (A/B/C/D).")
